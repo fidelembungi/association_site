@@ -36,3 +36,7 @@ function services() {
 function apropos() {
   location.href = "./apropos.html";
 }
+
+function contact() {
+  location.href = "./contact.html";
+}

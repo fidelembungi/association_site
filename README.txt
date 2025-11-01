@@ -1,4 +1,4 @@
-FD-Association - Static bilingual website (FR/EN)
+FD-Association - Static bilingual website
 This project contains a professional static website for 'FD Association' (Kenge, Kwango), with pages:
 - index.html, activites.html, services.html, apropos.html, contact.html
 - style.css, script.js
